@@ -1,0 +1,7 @@
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\5.hafta\pazar\ConsoleApp.Pazar.Odev\ConsoleApp.Pazar.Odev\bin\Debug\ConsoleApp.Pazar.Odev.exe.config
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\5.hafta\pazar\ConsoleApp.Pazar.Odev\ConsoleApp.Pazar.Odev\bin\Debug\ConsoleApp.Pazar.Odev.exe
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\5.hafta\pazar\ConsoleApp.Pazar.Odev\ConsoleApp.Pazar.Odev\bin\Debug\ConsoleApp.Pazar.Odev.pdb
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\5.hafta\pazar\ConsoleApp.Pazar.Odev\ConsoleApp.Pazar.Odev\obj\Debug\ConsoleApp.Pazar.Odev.csproj.AssemblyReference.cache
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\5.hafta\pazar\ConsoleApp.Pazar.Odev\ConsoleApp.Pazar.Odev\obj\Debug\ConsoleApp.Pazar.Odev.csproj.CoreCompileInputs.cache
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\5.hafta\pazar\ConsoleApp.Pazar.Odev\ConsoleApp.Pazar.Odev\obj\Debug\ConsoleApp.Pazar.Odev.exe
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\5.hafta\pazar\ConsoleApp.Pazar.Odev\ConsoleApp.Pazar.Odev\obj\Debug\ConsoleApp.Pazar.Odev.pdb
